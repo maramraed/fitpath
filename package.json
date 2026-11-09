@@ -1,0 +1,1 @@
+{"name":"fitpath","private":true,"type":"module","scripts":{"build":"node build.mjs","start":"npm run build && node server.mjs"},"dependencies":{"bootstrap":"5.3.8","react":"19.3.1","react-dom":"19.3.1"},"devDependencies":{"esbuild":"0.28.2"}}
